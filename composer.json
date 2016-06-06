@@ -1,6 +1,6 @@
 {
   "name": "gudwin/extasy-usecase",
-  "description": "Usecase class for Extasy",
+  "description": "Usecase trait for Extasy",
   "authors": [
     {
       "name": "Dmitry Shevchenko",
