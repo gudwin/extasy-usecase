@@ -1,0 +1,20 @@
+{
+  "name": "gudwin/extasy-usecase",
+  "description": "Usecase class for Extasy",
+  "authors": [
+    {
+      "name": "Dmitry Shevchenko",
+      "email": "dmitry@dd-team.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Extasy\\Usecase\\tests\\": "tests/",
+      "Extasy\\Usecase\\": "src/"
+    }
+  }
+}
